@@ -5,3 +5,4 @@ number2 = int(input("Enter the second number: "))
 print(name)
 print(number1)
 print(number2)
+
